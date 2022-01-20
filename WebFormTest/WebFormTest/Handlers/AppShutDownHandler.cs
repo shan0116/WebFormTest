@@ -1,6 +1,6 @@
 ﻿using System.Web;
 
-namespace WebFormTest.Handler
+namespace WebFormTest.Handlers
 {
     public class AppShutDownHandler : IHttpHandler
     {
@@ -8,7 +8,7 @@ namespace WebFormTest.Handler
 
         public void ProcessRequest(HttpContext context)
         {
-            context.Response.Write("<h1 style='Color:blue; font-size:15px;'>Our website is under maintainace. Please try after some time</h1>");
+            context.Response.Write("<h1 style='Color:blue; font-size:15px;'>This page is under maintainace. Please try later</h1>");
         }
     }
 }

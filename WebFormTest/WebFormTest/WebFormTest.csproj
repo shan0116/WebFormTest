@@ -187,7 +187,8 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Handler\AppShutDownHandler.cs" />
+    <Compile Include="Handlers\AppShutDownHandler.cs" />
+    <Compile Include="HttpModules\RequestLoggerHttpModule.cs" />
     <Compile Include="Login.aspx.cs">
       <DependentUpon>Login.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -220,7 +221,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="HttpModule\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
