@@ -10,7 +10,7 @@ namespace WebFormTest.HttpModules
     {
 
         private StreamWriter sw;
-        private string filePath = @"c:\logger.txt";
+        private string filePath = @"D:\logger.txt";
         public void Dispose()
         {
             //clean-up code here.  
