@@ -53,7 +53,6 @@ C:\Shan Projects\WebFormTest\WebFormTest\WebFormTest\bin\roslyn\VBCSCompiler.exe
 C:\Shan Projects\WebFormTest\WebFormTest\WebFormTest\bin\Antlr3.Runtime.dll
 C:\Shan Projects\WebFormTest\WebFormTest\WebFormTest\bin\AspNet.ScriptManager.bootstrap.dll
 C:\Shan Projects\WebFormTest\WebFormTest\WebFormTest\bin\AspNet.ScriptManager.jQuery.dll
-C:\Shan Projects\WebFormTest\WebFormTest\WebFormTest\bin\Microsoft.AspNet.FriendlyUrls.dll
 C:\Shan Projects\WebFormTest\WebFormTest\WebFormTest\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
 C:\Shan Projects\WebFormTest\WebFormTest\WebFormTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Shan Projects\WebFormTest\WebFormTest\WebFormTest\bin\Microsoft.ScriptManager.MSAjax.dll
@@ -65,7 +64,6 @@ C:\Shan Projects\WebFormTest\WebFormTest\WebFormTest\bin\WebGrease.dll
 C:\Shan Projects\WebFormTest\WebFormTest\WebFormTest\bin\System.Web.Optimization.xml
 C:\Shan Projects\WebFormTest\WebFormTest\WebFormTest\bin\Newtonsoft.Json.xml
 C:\Shan Projects\WebFormTest\WebFormTest\WebFormTest\bin\Antlr3.Runtime.pdb
-C:\Shan Projects\WebFormTest\WebFormTest\WebFormTest\bin\Microsoft.AspNet.FriendlyUrls.xml
 C:\Shan Projects\WebFormTest\WebFormTest\WebFormTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Shan Projects\WebFormTest\WebFormTest\WebFormTest\obj\Debug\WebFormTest.csproj.CoreCompileInputs.cache
 C:\Shan Projects\WebFormTest\WebFormTest\WebFormTest\obj\Debug\WebFormTest.csproj.CopyComplete
