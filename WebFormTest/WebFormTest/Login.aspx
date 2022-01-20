@@ -15,12 +15,8 @@
                 <td>
                     <asp:TextBox ID="UserName" runat="server" />
                 </td>
-                <td>
-                    <asp:RequiredFieldValidator ID="RequiredFieldValidator1"
-                        ControlToValidate="UserName"
-                        Display="Dynamic"
-                        ErrorMessage="Cannot be empty."
-                        runat="server" />
+                <td id="UserNameValidator">
+                   
                 </td>
             </tr>
             <tr>
@@ -29,11 +25,8 @@
                     <asp:TextBox ID="UserPass" TextMode="Password"
                         runat="server" />
                 </td>
-                <td>
-                    <asp:RequiredFieldValidator ID="RequiredFieldValidator2"
-                        ControlToValidate="UserPass"
-                        ErrorMessage="Cannot be empty."
-                        runat="server" />
+                <td id="PasswordValidator">
+                   
                 </td>
             </tr>
             <tr>
